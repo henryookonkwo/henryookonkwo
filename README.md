@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henryookonkwo
 - 👀 I’m interested in Front-end development and Cybersecurity 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently exploring the latest and greatest Javascript frameworks
 - 💞️ I’m looking to collaborate on real life projects to improve my skills
 - 📫 How to reach me via email: henryookonkwo@gmail.com :) 
 
